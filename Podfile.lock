@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.8.2)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - MagicalRecord
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - MagicalRecord
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+
+PODFILE CHECKSUM: c5375552ababc7f162359623007e417fa2abdedb
+
+COCOAPODS: 1.7.5
